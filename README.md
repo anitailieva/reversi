@@ -1,4 +1,4 @@
-##PG3400 - C programming 
+## C programming 
 
 Reversi Console Game
 
